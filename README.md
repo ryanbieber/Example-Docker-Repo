@@ -1,4 +1,4 @@
-#Docker Build Model Template Repo
+# Docker Build Model Template Repo
 
 ## Step 1:
 ### Make sure you have docker installed on your desktop

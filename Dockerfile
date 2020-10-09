@@ -25,7 +25,7 @@ RUN mkdir /src
 # copy all the other R files.
 COPY src /src
 
-# copy all the data over if you have any
+# copy all the data over if you have any hard coded data
 COPY data /src/data
 
 
